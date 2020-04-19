@@ -23,24 +23,32 @@ Blynk with lots of changes done by our team.
 <p>XML OUT</p>
 <p>SUPER SWITCH for controling all switch at one time</p>
 
-========================================CONNECTION WIRING ==============
 
- Switch Wiring 1 = 12 D6;      // pin for physical button switch.
- Switch Wiring 2 = 14 D5;      // pin for physical button switch.
- Switch Wiring 3 = 13 D7;      // pin for physical button switch.
- Switch Wiring 4 = 2; D4      // pin for physical button switch.
-
-ALL PIN IS SHORT BY GROUND /NEGATIVE (-) PIN FOR SWITCH.
-
- RELAY OUT 1 =  5   D1;      // pin for relay output.
- RELAY OUT 2 =  16  D0;      // pin for relay output.
- RELAY OUT 3 =  4   D2;      // pin for relay output.
- RELAY OUT 4 =  0   D3;      // pin for relay output.
- LED PIN - 15== D8       //  LED PIN For indication
- RX / TX pin is used for arduino out for Fan Speed.
+<p>========================================CONNECTION WIRING ============== </p>
+<p>Switch Wiring 1 = 12 D6;      // pin for physical button switch.
+ </p>
+<p>Switch Wiring 2 = 14 D5;      // pin for physical button switch.
+ </p>
+<p>Switch Wiring 3 = 13 D7;      // pin for physical button switch.
+ </p>
+<p>Switch Wiring 4 = 2; D4      // pin for physical button switch.
+</p>
+<p>ALL PIN IS SHORT BY GROUND /NEGATIVE (-) PIN FOR SWITCH.
+ </p>
+<p>RELAY OUT 1 =  5   D1;      // pin for relay output.
+ </p>
+<p>RELAY OUT 2 =  16  D0;      // pin for relay output.
+ </p>
+<p>RELAY OUT 3 =  4   D2;      // pin for relay output.
+ </p>
+<p>RELAY OUT 4 =  0   D3;      // pin for relay output.
+ </p>
+<p>LED PIN - 15== D8       //  LED PIN For indication
+</p>
+<p>RX / TX pin is used for arduino out for Fan Speed.</p>
  
 
-======================================== BLYNK APP SETTEING===============
+<p>======================================== BLYNK APP SETTEING===============</p>
 
 <p>V1 Virtual PIN V1 for Terminal Out.</p>
 <p>V3 Virtual PIN v3 for Relay out.</p>
