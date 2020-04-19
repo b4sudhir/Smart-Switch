@@ -1,5 +1,6 @@
 # Smart Switch
-  Blynk with Dynamic Auth Key and Wifi Pages
+
+Blynk with Dynamic Auth Key and Wifi Details.
 This Project is basically based on Blink Inject.
 Blynk with lots of changes done by our team.
 
@@ -19,4 +20,32 @@ Blynk with lots of changes done by our team.
 <p>AP MODE ENABLE/DISABLE OPTION</p>
 <p>FAN SWITCH WITH ARDUINO OUT</p>
 <p>Four Switches</p>
-<p>XML SHOW</p>
+<p>XML OUT</p>
+<p>SUPER SWITCH for controling all switch at one time</p>
+
+========================================CONNECTION WIRING ==============
+
+ Switch Wiring 1 = 12 D6;      // pin for physical button switch.
+ Switch Wiring 2 = 14 D5;      // pin for physical button switch.
+ Switch Wiring 3 = 13 D7;      // pin for physical button switch.
+ Switch Wiring 4 = 2; D4      // pin for physical button switch.
+
+ALL PIN IS SHORT BY GROUND /NEGATIVE (-) PIN FOR SWITCH.
+
+ RELAY OUT 1 =  5   D1;      // pin for relay output.
+ RELAY OUT 2 =  16  D0;      // pin for relay output.
+ RELAY OUT 3 =  4   D2;      // pin for relay output.
+ RELAY OUT 4 =  0   D3;      // pin for relay output.
+ LED PIN - 15== D8       //  LED PIN For indication
+ RX / TX pin is used for arduino out for Fan Speed.
+ 
+
+======================================== BLYNK APP SETTEING===============
+
+V1 Virtual PIN V1 for Terminal Out.
+V3 Virtual PIN v3 for Relay out.
+V4 Virtual PIN v4 for Relay out.
+V5 Virtual PIN v5 for Relay out.
+V6 Virtual PIN v6 for Relay out.
+V10 Virtual PIN V10 for FAN OUT. SET 0 to 100.
+=============================================================================
