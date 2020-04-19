@@ -1,0 +1,4 @@
+curl -v -F file=@Blynk-webserver-dynamickey-NORMAL-PUSH_BUTTON-ota-led-working.ino.nodemcu.bin --insecure -u k2@blynkserver.gcp:blynk4iot@GCP0 https://blynkservergcp.ddns.net:9443/admin/ota/start
+
+
+curl -v --insecure -u k2@blynkserver.gcp:blynk4iot@GCP0 https://blynkservergcp.ddns.net:9443/admin/ota/stop
