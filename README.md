@@ -1,4 +1,4 @@
-# Smart Switch
+# Smart Switch with NODEMCU
 
 Blynk with Dynamic Auth Key and Wifi Details.
 This Project is basically based on Blink Inject.
