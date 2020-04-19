@@ -9,7 +9,7 @@ Blynk with lots of changes done by our team.
 
 <p>This project consist of</p> 
 <p>Blynk Server with Dynamic wifi and blynk auth.</p>
-<p>Wifi webserver. </p>
+<p>Wifi webserver with javascript and AJAX </p>
 <p>OTA</p>
 <p>LED INDICATOR</p>
 <p>NORMAL SWITCH</p>
