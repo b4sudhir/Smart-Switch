@@ -42,10 +42,10 @@ ALL PIN IS SHORT BY GROUND /NEGATIVE (-) PIN FOR SWITCH.
 
 ======================================== BLYNK APP SETTEING===============
 
-V1 Virtual PIN V1 for Terminal Out.
-V3 Virtual PIN v3 for Relay out.
-V4 Virtual PIN v4 for Relay out.
-V5 Virtual PIN v5 for Relay out.
-V6 Virtual PIN v6 for Relay out.
-V10 Virtual PIN V10 for FAN OUT. SET 0 to 100.
+<p>V1 Virtual PIN V1 for Terminal Out.</p>
+<p>V3 Virtual PIN v3 for Relay out.</p>
+<p>V4 Virtual PIN v4 for Relay out.</p>
+<p>V5 Virtual PIN v5 for Relay out.</p>
+<p>V6 Virtual PIN v6 for Relay out.</p>
+<p>V10 Virtual PIN V10 for FAN OUT. SET 0 to 100.</p>
 =============================================================================
