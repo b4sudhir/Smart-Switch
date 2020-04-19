@@ -33,7 +33,7 @@ Blynk with lots of changes done by our team.
  </p>
 <p>Switch Wiring 4 = 2; D4      // pin for physical button switch.
 </p>
-<p>ALL PIN IS SHORT BY GROUND /NEGATIVE (-) PIN FOR SWITCH.
+<p><b>ALL PIN IS SHORT BY GROUND /NEGATIVE (-) PIN FOR SWITCH.</b>
  </p>
 <p>RELAY OUT 1 =  5   D1;      // pin for relay output.
  </p>
